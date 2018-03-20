@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\World\Scripts\TargetAttack.cs">
+    <Files>
+      <File FileName="Assets\World\Scripts\Bot.cs" Line="1" Column="1" />
+      <File FileName="Assets\World\Scripts\BaseTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\World\Scripts\RocketOndrop.cs" Line="1" Column="1" />
+      <File FileName="Assets\World\Scripts\RocketEngine.cs" Line="1" Column="1" />
+      <File FileName="Assets\World\Scripts\PerformAttackProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\World\Scripts\Target.cs" Line="1" Column="1" />
+      <File FileName="Assets\World\Scripts\TargetAttack.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
